@@ -1,7 +1,4 @@
-/* NURAFRINA BATRISYIA BINTI NORDZAMAN	1231303327@student.mmu.edu.my
-ADRIANA BINTI MEOR AZMAN	1211111079@student.mmu.edu.my
-NURULAIN AFIQAH BINTI ABDULLAH	1211112326@student.mmu.edu.my
-NUR ADIBAH BINTI KHAIRUL ANUAR	1211112286@student.mmu.edu.my */
+
 
 // The GameObserver interface defines the methods that any observer of the game state must implement.
 // It allows observers to receive updates about the game board, turn changes, and messages.
