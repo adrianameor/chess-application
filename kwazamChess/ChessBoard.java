@@ -1,7 +1,4 @@
-/* NURAFRINA BATRISYIA BINTI NORDZAMAN	1231303327@student.mmu.edu.my
-ADRIANA BINTI MEOR AZMAN	1211111079@student.mmu.edu.my
-NURULAIN AFIQAH BINTI ABDULLAH	1211112326@student.mmu.edu.my
-NUR ADIBAH BINTI KHAIRUL ANUAR	1211112286@student.mmu.edu.my */
+
 
 import java.awt.*; // Importing AWT classes for GUI components
 import java.awt.event.ActionEvent; // Importing ActionEvent for handling button actions
