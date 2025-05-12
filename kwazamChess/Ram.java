@@ -1,5 +1,4 @@
-// Ram.java
-//NURULAIN AFIQAH BINTI ABDULLAH	1211112326@student.mmu.edu.my
+
 
 import java.util.ArrayList; // Importing ArrayList for storing valid moves
 import java.util.List;  // Importing List interface for handling lists of valid moves
